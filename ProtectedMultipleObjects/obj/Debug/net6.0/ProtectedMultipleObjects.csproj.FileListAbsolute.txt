@@ -1,0 +1,15 @@
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net6.0\ProtectedMultipleObjects.exe
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net6.0\ProtectedMultipleObjects.deps.json
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net6.0\ProtectedMultipleObjects.runtimeconfig.json
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net6.0\ProtectedMultipleObjects.dll
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net6.0\ProtectedMultipleObjects.pdb
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net6.0\ProtectedMultipleObjects.csproj.AssemblyReference.cache
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net6.0\ProtectedMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net6.0\ProtectedMultipleObjects.AssemblyInfoInputs.cache
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net6.0\ProtectedMultipleObjects.AssemblyInfo.cs
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net6.0\ProtectedMultipleObjects.csproj.CoreCompileInputs.cache
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net6.0\ProtectedMultipleObjects.dll
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net6.0\refint\ProtectedMultipleObjects.dll
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net6.0\ProtectedMultipleObjects.pdb
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net6.0\ProtectedMultipleObjects.genruntimeconfig.cache
+C:\Users\bludw\source\repos\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net6.0\ref\ProtectedMultipleObjects.dll
